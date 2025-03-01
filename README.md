@@ -2,9 +2,8 @@
 i am currently working on Shell Sort technologies private limited as an Android Developer
 
 ## 🌐 Socials:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@PUNITHHK)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:PUNITHHK48@GMAIL.COM) 
-
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punith-hk/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:PUNITHHK48@GMAIL.COM)
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
  <img src="https://img.shields.io/badge/android-%23FF6F00.svg?style=for-the-badge&logo=android&logoColor=white" />
